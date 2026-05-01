@@ -60,7 +60,7 @@ adb devices
 
 ---
 
-## 🚀 Lab Steps
+##  Lab Steps
 
 ---
 
